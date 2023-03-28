@@ -46,5 +46,3 @@ The remaining data was acquired from the [PORDATA](https://www.pordata.pt/) data
 ### Project Objectives:
 - Description of data visualization techniques that Power BI offers
 - Create dashboards, describe them and infer the conclusions that can be made from them
-
-a
