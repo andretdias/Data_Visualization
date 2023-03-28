@@ -41,7 +41,7 @@ This project focused on the utilization of the Power BI software and its visuali
 
 ### Data:
 A portion of the data used in this project is related to the Public Education System. This data was made available to us by the Direção-Geral de Estatísticas da Educação e Ciência ([DGEEC](https://www.dgeec.mec.pt/np4/dgeec/)).
-The remaining data was acquired from the [PORDATA] database. Data regarding income by education level, registered unemployement, population density and crime were fetched from this database.
+The remaining data was acquired from the [PORDATA](https://www.pordata.pt/) database. Data regarding income by education level, registered unemployement, population density and crime were fetched from this database.
 
 ### Project Objectives:
 - Description of data visualization techniques that Power BI offers
