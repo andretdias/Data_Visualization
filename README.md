@@ -16,7 +16,7 @@ This repository encompasses the projects developed for the Data Visualization co
 - Ana Cláudio
 
 
-### First Project - Scientific Visualization using ParaView
+## First Project - Scientific Visualization using ParaView
 This project focused on the utilization of the ParaView software and its visualization techniques to create informative graphical representations.
 
 ### Data:
