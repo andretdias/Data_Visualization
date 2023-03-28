@@ -11,7 +11,7 @@ This repository encompasses the projects developed for the Data Visualization co
 - Tiago Rodrigues
 - Nihan Ahat
 
-#### Professor: 
+#### Professors: 
 - Beatriz Carmo
 - Ana Cláudio
 
