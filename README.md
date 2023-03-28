@@ -2,7 +2,7 @@
 
 
 # Data Visualization
-This repository encompasses the projects developed for the Data Visualization course, which aimed to familiarize students with [ParaView](https://www.paraview.org/) and [PowerBI](https://powerbi.microsoft.com/en-us/).
+This repository encompasses the projects developed for the Data Visualization course, which aimed to familiarize students with [ParaView](https://www.paraview.org/) and [Power BI](https://powerbi.microsoft.com/en-us/).
 
 
 #### Team:
@@ -35,3 +35,14 @@ The data contains a total of 6 columns:
 - Organize the data in the VTK format (used by ParaView) and create new variables
 - Visualize the data using ParaView (create graphical representations using slices, glyphs, isolines, isosurfaces and make an animation)
 
+
+## Second Project - Data Visualization with dashboards using Power BI Desktop
+This project focused on the utilization of the Power BI software and its visualization techniques to create informative graphical representations.
+
+### Data:
+A portion of the data used in this project is related to the Public Education System. This data was made available to us by the Direção-Geral de Estatísticas da Educação e Ciência ([DGEEC](https://www.dgeec.mec.pt/np4/dgeec/)).
+The remaining data was acquired from the [PORDATA] database. Data regarding income by education level, registered unemployement, population density and crime were fetched from this database.
+
+### Project Objectives:
+- Description of data visualization techniques that Power BI offers
+- Create dashboards, describe them and infer the conclusions that can be made from them
